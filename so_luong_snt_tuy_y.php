@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<form action="so_luong_snt_tuy_y.php" method="post">
+<form action="convert_money.php" method="post">
    <button type="submit">
        Submit
    </button>
