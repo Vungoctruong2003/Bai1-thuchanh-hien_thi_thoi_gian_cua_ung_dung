@@ -20,7 +20,7 @@
             </td>
 
             <td>
-                <button type="submit"> Convert </button>
+                <input type="submit"> Convert </input>
             </td>
         </tr>
     </table>
